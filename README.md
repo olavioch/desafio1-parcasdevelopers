@@ -9,7 +9,7 @@ Ipad e Iphonex.
 >
 ###**__Projeto para desktop__**
 >
-###![GitHub Logo](img1.jpg)
+![GitHub Logo](img1.jpg)
 >
 ###**__Projeto do ipad__**
 >
@@ -17,5 +17,5 @@ Ipad e Iphonex.
 >
 ###**__Projeto do iphoneX__**
 >
-![GitHub Logo](img3.jpg)
+![GitHub Logo](img3.jpeg)
 
