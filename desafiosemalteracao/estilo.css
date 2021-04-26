@@ -8,11 +8,6 @@ body{
     font-family: sans-serif;
     background-color: #030820;
 }
-.container{
-    width:100vw;
-    max-width: 1440px;
-    height: 100vh;
-}
 /*fim interface geral*/
 
 /*inicio cabeçalho do projeto*/
